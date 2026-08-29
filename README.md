@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **Unofficial CamCore downstream.** This fork is maintained by CamCore – Cameron Family Secure Network to add CamCore login, header and browser identity assets and to build the branded `ghcr.io/camcoreau/prowlarr` container image. It remains a downstream of the [upstream Prowlarr project](https://github.com/Prowlarr/Prowlarr); CamCore is not affiliated with or endorsed by upstream.
+>
+> **CamCore is a privately owned and operated family technology network that delivers secure, reliable and professionally managed digital services for the Cameron household, Cameron-Media and associated family operations.** **Built for Home. Engineered Like Enterprise.**
+>
+> Prefer an immutable `sha-*` image tag, with its resolved digest recorded, over `latest`. Reviewed source, a published image, a deployed image and a verified live service are separate states. Route product questions and reproducible upstream defects upstream after testing without CamCore customisation; CamCore operational support remains private. Never add credentials or private environment details to this public repository.
+
 # Prowlarr
 
 [![Build Status](https://dev.azure.com/Prowlarr/Prowlarr/_apis/build/status/Prowlarr.Prowlarr?branchName=develop)](https://dev.azure.com/Prowlarr/Prowlarr/_build/latest?definitionId=1&branchName=develop)
